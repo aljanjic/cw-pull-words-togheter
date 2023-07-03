@@ -23,3 +23,8 @@ Your function should:
 - ✅ DONE
 
 ## Plans
+
+- ⚠ '["i", "am", "an", "AI"] should return "I am an AI."'
+- ⚠ '["yes"] should return "Yes."'
+- ⚠ '["FIELDS", "of", "CORN", "are", "to", "be", "sown"] should return "FIELDS of CORN are to be sown."'
+- ⚠ '["i'm", "afraid", "I", "can't", "let", "you", "do", "that"] should return "I'm afraid I can't let you do that."'
